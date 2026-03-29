@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul5_103082400030\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{93F7AEA0-E686-4F17-B2D9-0640DBDB1736}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul5_103082400030\\tpmodul5_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93F7AEA0-E686-4F17-B2D9-0640DBDB1736}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|solutionrelative:tpmodul5_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B76E6D0-209C-02A1-43B4-C8389BF3DD4C}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul5_103082400030\\tpmodul5_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B76E6D0-209C-02A1-43B4-C8389BF3DD4C}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|solutionrelative:tpmodul5_103082400030\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B76E6D0-209C-02A1-43B4-C8389BF3DD4C}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|c:\\users\\lenovo\\documents\\matkul_kpl\\tpmodul5_103082400030\\tpmodul5_103082400030\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B76E6D0-209C-02A1-43B4-C8389BF3DD4C}|tpmodul5_103082400030\\tpmodul5_103082400030.csproj|solutionrelative:tpmodul5_103082400030\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,8 +32,25 @@
         },
         {
           "DockedWidth": 192,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HaloGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul5_103082400030\\tpmodul5_103082400030\\HaloGeneric.cs",
+              "RelativeDocumentMoniker": "tpmodul5_103082400030\\HaloGeneric.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul5_103082400030\\tpmodul5_103082400030\\HaloGeneric.cs",
+              "RelativeToolTip": "tpmodul5_103082400030\\HaloGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:09:46.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -38,14 +59,10 @@
               "RelativeDocumentMoniker": "tpmodul5_103082400030\\Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Documents\\Matkul_KPL\\tpmodul5_103082400030\\tpmodul5_103082400030\\Program.cs",
               "RelativeToolTip": "tpmodul5_103082400030\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T13:27:23.963Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }
